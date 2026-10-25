@@ -1,8 +1,19 @@
 # iwillshowthemthatiwasright
 
-**Video editor who builds his own tools.**
+**Video editor, toolmaker, automation builder.**
 
 I cut video for a living — long-form illustrated recaps with hundreds of images over a 30-minute voice track. Doing that by hand does not scale, so I write the tools I'm missing: VEGAS Pro scripts in C#, ffmpeg pipelines in Python, and small analysers that measure what I used to guess.
+
+That habit grew beyond editing. Today I also build automation that runs 24/7 on my own server: cron-driven pipelines, vulnerability scanners, compliance audit tools, and self-hosted AI agents.
+
+## What I do
+
+- **Video editing & post-production** — long-form illustrated recaps, voice-over timing, hundreds of images per project.
+- **Tooling & development** — C# (VEGAS Pro API), Python, Bash, ffmpeg pipelines, batch automation.
+- **Automation & data** — cron-driven pipelines, web scraping, measurement scripts, automated reporting, dashboards.
+- **Security tooling** — PHP vulnerability scanning, N-day variant hunting, code analysis (semgrep, gitleaks, OSV).
+- **Compliance** — automated Loi 25 (Quebec privacy law) audits: 13 checks, scored reports.
+- **AI agents** — self-hosted LLM assistants, autonomous task pipelines with guardrails.
 
 ## Projects
 
@@ -16,7 +27,7 @@ I cut video for a living — long-form illustrated recaps with hundreds of image
 
 ## Skills
 
-C# · Python · ffmpeg · VEGAS Pro scripting · video automation · AI agents · data extraction
+C# · Python · Bash · ffmpeg · VEGAS Pro API · PHP · Linux / Debian · Docker · web scraping · automation · AI agents · security scanning · data extraction
 
 ## Contact
 

@@ -1,8 +1,19 @@
 # iwillshowthemthatiwasright
 
-**Monteur vidéo qui code ses propres outils.**
+**Monteur vidéo, créateur d'outils, bâtisseur d'automatisations.**
 
-Je monte des récapitulatifs illustrés longs — des centaines d'images sur une voix off de 30 minutes. À la main, ça ne passe pas à l'échelle, alors j'écris les outils qui me manquent : scripts VEGAS Pro en C#, pipelines ffmpeg en Python, et petits analyseurs qui mesurent ce que je devinais avant.
+Je monte des récapitulatifs illustrés longs — des centaines d'images sur une voix off de 30 minutes. À la main, ça ne passe pas à l'échelle, alors j'écris les outils qui me manquent : scripts VEGAS Pro en C#, pipelines ffmpeg en Python, petits analyseurs qui mesurent ce que je devinais avant.
+
+Cette habitude a débordé du montage. Aujourd'hui je construis aussi des automatisations qui tournent 24/7 sur mon propre serveur : pipelines pilotés par cron, scanners de vulnérabilités, outils d'audit de conformité et agents IA auto-hébergés.
+
+## Ce que je fais
+
+- **Montage vidéo & post-production** — récapitulatifs illustrés longs, calage voix off, des centaines d'images par projet.
+- **Outils & développement** — C# (API VEGAS Pro), Python, Bash, pipelines ffmpeg, automatisation batch.
+- **Automatisation & données** — pipelines cron, scraping web, scripts de mesure, rapports automatiques, tableaux de bord.
+- **Outils de sécurité** — scan de vulnérabilités PHP, chasse de variantes N-day, analyse de code (semgrep, gitleaks, OSV).
+- **Conformité** — audits Loi 25 automatisés : 13 contrôles, rapports notés.
+- **Agents IA** — assistants LLM auto-hébergés, pipelines autonomes avec garde-fous.
 
 ## Projets
 
@@ -16,7 +27,7 @@ Je monte des récapitulatifs illustrés longs — des centaines d'images sur une
 
 ## Compétences
 
-C# · Python · ffmpeg · scripting VEGAS Pro · automatisation vidéo · agents IA · extraction de données
+C# · Python · Bash · ffmpeg · API VEGAS Pro · PHP · Linux / Debian · Docker · scraping web · automatisation · agents IA · scan de sécurité · extraction de données
 
 ## Contact
 
